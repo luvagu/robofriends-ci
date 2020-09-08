@@ -17,7 +17,7 @@ class Header extends Component {
       <div>
 
       <h1 className='f1'>RoboFriends</h1>
-        <CounterButton /> 
+          <CounterButton /> 
          
                          <CounterButton2 />
       </div>
