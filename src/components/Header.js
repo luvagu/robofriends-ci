@@ -15,9 +15,10 @@ class Header extends Component {
     console.log('header')
     return (
       <div>
-        <h1 className='f1'>RoboFriends</h1>
-        <CounterButton />
-        
+
+      <h1 className='f1'>RoboFriends</h1>
+        <CounterButton /> 
+         
                          <CounterButton2 />
       </div>
     );
